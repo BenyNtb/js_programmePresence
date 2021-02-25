@@ -1,0 +1,25 @@
+{
+  "name": "Mini-Projet-FP",
+  "version": "1.0.0",
+  "description": "1. Local Storage :  - Réaliser une fiche de présence des stagiaires pour MolenGeek. Le programme consiste à tout d'abord rajouter des stagiaires un par un via un formulaire. Possibiliter d'ajouter un stagiaire (prenom,nom,age,sa classe). Pour cela, utiliser le \"localStorage\". C'est une façon de stocker des données comme avec une base de donnée. Rajouter les data sous forme d'objet pour avoir une manipulation plus simple des data. Le principal atout du localStorage est qu'au refresh de la page, les data enregistrées ne se supprime pas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenyNtb/js_programmePresence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenyNtb/js_programmePresence/issues"
+  },
+  "homepage": "https://github.com/BenyNtb/js_programmePresence#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
